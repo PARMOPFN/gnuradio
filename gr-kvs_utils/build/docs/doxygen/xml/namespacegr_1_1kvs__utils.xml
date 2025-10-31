@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="namespacegr_1_1kvs__utils" kind="namespace" language="C++">
+    <compoundname>gr::kvs_utils</compoundname>
+    <innerclass refid="classgr_1_1kvs__utils_1_1divide__by__2__ff" prot="public">gr::kvs_utils::divide_by_2_ff</innerclass>
+    <innerclass refid="classgr_1_1kvs__utils_1_1divide__by__2__ff__impl" prot="public">gr::kvs_utils::divide_by_2_ff_impl</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/include/gnuradio/kvs_utils/divide_by_2_ff.h" line="15" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_74232a36e8cf6c18233462886a433293" kind="dir">
+    <compoundname>docstrings</compoundname>
+    <innerfile refid="python_2kvs__utils_2bindings_2docstrings_2divide__by__2__ff__pydoc__template_8h">python/kvs_utils/bindings/docstrings/divide_by_2_ff_pydoc_template.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/docstrings/"/>
+  </compounddef>
+</doxygen>

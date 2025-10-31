@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="divide__by__2__ff__impl_8h" kind="file" language="C++">
+    <compoundname>divide_by_2_ff_impl.h</compoundname>
+    <includes refid="divide__by__2__ff_8h" local="no">gnuradio/kvs_utils/divide_by_2_ff.h</includes>
+    <incdepgraph>
+      <node id="3">
+        <label>gnuradio/kvs_utils/api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>gnuradio/sync_block.h</label>
+      </node>
+      <node id="2">
+        <label>gnuradio/kvs_utils/divide_by_2_ff.h</label>
+        <link refid="divide__by__2__ff_8h"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>gnuradio/attributes.h</label>
+      </node>
+      <node id="1">
+        <label>divide_by_2_ff_impl.h</label>
+        <link refid="divide__by__2__ff__impl_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+    <innerclass refid="classgr_1_1kvs__utils_1_1divide__by__2__ff__impl" prot="public">gr::kvs_utils::divide_by_2_ff_impl</innerclass>
+    <innernamespace refid="namespacegr">gr</innernamespace>
+    <innernamespace refid="namespacegr_1_1kvs__utils">gr::kvs_utils</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/lib/divide_by_2_ff_impl.h"/>
+  </compounddef>
+</doxygen>

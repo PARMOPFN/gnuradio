@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/karolf/projects/cessb/gr-kvs_utils/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_THREAD_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dgnuradio_kvs_utils_EXPORTS -I/home/karolf/projects/cessb/gr-kvs_utils/lib/../include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -std=c++17 -fPIC -o CMakeFiles/gnuradio-kvs_utils.dir/divide_by_2_ff_impl.cc.o -c /home/karolf/projects/cessb/gr-kvs_utils/lib/divide_by_2_ff_impl.cc",
+  "file": "/home/karolf/projects/cessb/gr-kvs_utils/lib/divide_by_2_ff_impl.cc",
+  "output": "lib/CMakeFiles/gnuradio-kvs_utils.dir/divide_by_2_ff_impl.cc.o"
+},
+{
+  "directory": "/home/karolf/projects/cessb/gr-kvs_utils/build/python/kvs_utils/bindings",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dkvs_utils_python_EXPORTS -I/home/karolf/projects/cessb/gr-kvs_utils/build/python/kvs_utils/bindings -I/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/../../../lib -I/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/../../../include -I/home/karolf/projects/cessb/gr-kvs_utils/lib/../include -isystem /usr/include/python3.9 -isystem /usr/lib64/python3.9/site-packages/numpy/core/include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -std=c++17 -fPIC -fvisibility=hidden -Wno-unused-variable -flto -fno-fat-lto-objects -o CMakeFiles/kvs_utils_python.dir/divide_by_2_ff_python.cc.o -c /home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/divide_by_2_ff_python.cc",
+  "file": "/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/divide_by_2_ff_python.cc",
+  "output": "python/kvs_utils/bindings/CMakeFiles/kvs_utils_python.dir/divide_by_2_ff_python.cc.o"
+},
+{
+  "directory": "/home/karolf/projects/cessb/gr-kvs_utils/build/python/kvs_utils/bindings",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DFMT_LOCALE -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dkvs_utils_python_EXPORTS -I/home/karolf/projects/cessb/gr-kvs_utils/build/python/kvs_utils/bindings -I/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/../../../lib -I/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/../../../include -I/home/karolf/projects/cessb/gr-kvs_utils/lib/../include -isystem /usr/include/python3.9 -isystem /usr/lib64/python3.9/site-packages/numpy/core/include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -std=c++17 -fPIC -fvisibility=hidden -Wno-unused-variable -flto -fno-fat-lto-objects -o CMakeFiles/kvs_utils_python.dir/python_bindings.cc.o -c /home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/python_bindings.cc",
+  "file": "/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/bindings/python_bindings.cc",
+  "output": "python/kvs_utils/bindings/CMakeFiles/kvs_utils_python.dir/python_bindings.cc.o"
+}
+]

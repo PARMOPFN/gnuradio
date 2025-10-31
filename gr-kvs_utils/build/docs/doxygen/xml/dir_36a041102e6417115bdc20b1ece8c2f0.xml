@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_36a041102e6417115bdc20b1ece8c2f0" kind="dir">
+    <compoundname>kvs_utils</compoundname>
+    <innerdir refid="dir_322eaf485a6d51f3ffd78a279c637c79">bindings</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/build/test_modules/gnuradio/kvs_utils/"/>
+  </compounddef>
+</doxygen>

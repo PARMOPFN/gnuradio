@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_9c19a4b6360ba2a0bba74580c1bbc965" kind="dir">
+    <compoundname>kvs_utils</compoundname>
+    <innerdir refid="dir_e911dbfe137a02d141fd16f4826b4f98">bindings</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/python/kvs_utils/"/>
+  </compounddef>
+</doxygen>

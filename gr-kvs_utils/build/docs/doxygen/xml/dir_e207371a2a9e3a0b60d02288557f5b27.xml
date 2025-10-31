@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_e207371a2a9e3a0b60d02288557f5b27" kind="dir">
+    <compoundname>kvs_utils</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="divide__by__2__ff_8h">divide_by_2_ff.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/karolf/projects/cessb/gr-kvs_utils/include/gnuradio/kvs_utils/"/>
+  </compounddef>
+</doxygen>
